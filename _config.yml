@@ -22,8 +22,10 @@ about_profile_image: images/profile.jpg
 about_content: | 
   Great Day! 
   I study and research on Computer Graphics. 
+
   Currently, I am Ph.D student at VML KAIST in South Korea, advised by Prof. Junyong Noh. My research area is motion retargeting in character animation. Especially, I focus on retargeting interaction motions between multiple characters of various shape that animator can use!
   During my master degree, I was in GML advised by Prof. Hyeong-Seok Ko. I studied cloth simulation and conducted research on improving the simulation speed.  
+  
   I am grateful for the opportunity to learn new things and look forward to experiencing new challenges.
 Research Topic: Character animation, Motion retargeting, Cloth simulation
   # Good Day! my name's Inseo and I'm Ph.D student at GSCT KAIST advised by Prof.Junyoung Noh. My research area is Computer graphics, especially character's motion retargeting using deep-learning. 
@@ -34,31 +36,29 @@ content:
   - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left # middle
+      - layout: top-middle
         title: Geometry-Aware Retargeting for Two Skinned Character Interaction 
-        sub_title: Inseo Jang, Soojin Choi, Seokhyeon Hong, Chaelin Kim, Junyoung Noh (In submisson)
+        sub_title: Inseo Jang, Soojin Choi, Seokhyeon Hong, Chaelin Kim, Junyoung Noh (In submisson) Images ![alt text](/images/landscape-trees.jpg "Trees")
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            # url: github.com/sproogen/modern-resume-theme
         description: | 
         
-      - layout: top-left # middle
+      - layout: top-middle
         title: Pattern Mirroring Algorithm for Fast Simulation 
         sub_title: Inseo Jang, Sangbin Lee, Hyeungseok Ko (KCGS 2018 Proceeding)
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            # url: github.com/sproogen/modern-resume-theme
         description: Research on Accelerating Cloth Simulation Speed for Symmetrical Motion # | 
-# 좌우대칭으로 움직이는 캐릭터의 모션에 대해서 cloth 시뮬레이션 속도를 가속화하기 위한 연구 
-# I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false # true
 # references_title: References on request (Override references text)
 
 # Build settings
