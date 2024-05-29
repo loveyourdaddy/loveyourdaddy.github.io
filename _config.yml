@@ -36,8 +36,7 @@ content:
     content:
       - layout: top-left # middle
         title: Geometry-Aware Retargeting for Two Skinned Character Interaction 
-        sub_title: Inseo Jang, Soojin Choi, Seokhyeon Hong, Chaelin Kim, Junyoung Noh
-        In submisson
+        sub_title: Inseo Jang, Soojin Choi, Seokhyeon Hong, Chaelin Kim, Junyoung Noh (In submisson)
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -45,11 +44,9 @@ content:
             url: github.com/sproogen/modern-resume-theme
         description: | 
         
-
       - layout: top-left # middle
         title: Pattern Mirroring Algorithm for Fast Simulation 
-        sub_title: Inseo Jang, Sangbin Lee, Hyeungseok Ko
-        KCGS 2018 Proceeding 
+        sub_title: Inseo Jang, Sangbin Lee, Hyeungseok Ko (KCGS 2018 Proceeding)
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
