@@ -52,8 +52,7 @@ content:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
-        description: | 
-        Research on Accelerating Cloth Simulation Speed for Symmetrical Motion
+        description: Research on Accelerating Cloth Simulation Speed for Symmetrical Motion # | 
 # 좌우대칭으로 움직이는 캐릭터의 모션에 대해서 cloth 시뮬레이션 속도를 가속화하기 위한 연구 
 # I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
